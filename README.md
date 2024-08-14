@@ -1,6 +1,6 @@
 # Flappy Bird Clone for ATmega328 (Arduino Nano)
 
-This project is a Flappy Bird clone designed for the ATmega328 microcontroller and the Sainsmart 1.8" TFT screen (ST7735). It was developed and tested using an Arduino UNO with the mentioned display.
+This project is a Flappy Bird clone designed for the ATmega328 microcontroller and the Sainsmart 1.8" TFT screen (ST7735). It was developed and tested using an Arduino Nano with the mentioned display.
 
 ## Project Overview
 
